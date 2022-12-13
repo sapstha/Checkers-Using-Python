@@ -1,0 +1,318 @@
+Player Sapana Moves:
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | x | R | x | R | x | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | o | R | o | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved C2 to D1
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | x | R | x | 
+D | x | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | o | R | o | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved C4 to D3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | x | R | x | 
+D | x | R | x | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | B | 
+F | B | R | o | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved C6 to D7
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | x | R | x | R | B | R | x | R | 
+E | R | o | R | o | R | B | R | B | 
+F | B | R | B | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved D1 to F3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | x | R | B | R | x | R | 
+E | R | B | R | o | R | B | R | B | 
+F | o | R | x | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved D3 to F1
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | x | R | 
+E | R | B | R | o | R | B | R | B | 
+F | x | R | x | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved D7 to E8
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | x | R | x | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved F1 to G2
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | x | R | B | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Sapana Moved G2 to H3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | X | R | o | R | o | R | 
+
+Sapana Moved B1 to C2
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | B | R | x | R | x | R | x | R | 
+C | R | x | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | B | R | X | R | o | R | o | R | 
+
+Sapana Moved H3 to F1
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | X | R | B | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Sapana Moved F1 to D3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | X | R | B | R | B | R | 
+E | R | B | R | B | R | o | R | x | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Sapana Moved B3 to C4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | X | R | B | R | B | R | 
+E | R | B | R | B | R | o | R | x | 
+F | B | R | o | R | B | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Sapana Moved D3 to F5
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | o | R | x | 
+F | B | R | B | R | X | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Sapana Moved A4 to B3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | o | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | X | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Sapana Moved F5 to H3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | o | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | X | R | B | R | o | R | 
+
+Sapana Moved C4 to E6
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | x | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | B | R | B | R | B | R | o | 
+H | B | R | X | R | B | R | o | R | 
+
+Sapana Moved E6 to G4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | o | R | o | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved B3 to C4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | B | R | x | R | B | R | o | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved E8 to G6
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | o | R | B | R | B | 
+F | B | R | B | R | B | R | B | R | 
+G | R | B | R | x | R | x | R | o | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved A2 to B3
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | o | R | B | R | B | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved B3 to C2
+    1   2   3   4   5   6   7   8   
+A | R | O | R | B | R | x | R | x | 
+B | B | R | B | R | x | R | x | R | 
+C | R | x | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | o | R | B | R | B | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved C2 to E4
+    1   2   3   4   5   6   7   8   
+A | R | O | R | B | R | x | R | x | 
+B | B | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | x | R | B | R | B | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved C8 to D7
+    1   2   3   4   5   6   7   8   
+A | R | O | R | B | R | x | R | x | 
+B | B | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | x | R | 
+E | R | B | R | x | R | o | R | B | 
+F | B | R | B | R | B | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved D7 to F5
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | O | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | x | R | B | R | B | 
+F | B | R | B | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved B5 to C4
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | O | R | B | R | 
+E | R | B | R | x | R | B | R | B | 
+F | B | R | B | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Sapana Moved H3 to G2
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | B | R | O | R | x | R | B | R | 
+G | R | X | R | x | R | x | R | B | 
+H | B | R | B | R | B | R | B | R | 
+
+Sapana Moved G2 to F3
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | O | R | B | R | B | 
+F | B | R | X | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | B | R | B | R | B | R | 
+
+Sapana Moved C4 to E6
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | B | R | B | R | B | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | x | R | B | 
+F | B | R | X | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | B | R | B | R | B | R | 

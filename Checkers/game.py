@@ -39,7 +39,14 @@ class Game:
                 is_Player1s_Turn = True
                 self.board.move_a_piece(self.Player2_Name, 2)
 
-    
+        if(self.board.is_game_over()):
+            print("\n***Game Over***\n")
+            pieces_Player1 = self.board.get_pieces(1)
+            pieces_Player2 = self.board.get_pieces(2)
+            if(len(pieces_Player1)>len(pieces_Player2)):
+                print(self.Player1_Name+' is the Winner!!!!')
+            else:
+                print(self.Player2_Name+' is the Winner!!!!!')
         
     def save_board_to_file(self):
         self.file1 = open(self.file_name(self.Player1_Name), "w")

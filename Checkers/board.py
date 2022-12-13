@@ -19,7 +19,6 @@ class Board:
 
     def file_name(self,name_of_player):
         now = datetime.datetime.now()
-        print(now.today().strftime('%d-%m-%Y %H:%M.%S %p'))
         return str(name_of_player + "_" + now.today().strftime('%d_%m_%Y %H.%M.%S %p')) #datetime.now())
 
     # Declare the board
@@ -228,7 +227,7 @@ class Board:
             # Check if the piece has to be changed into King
             if player_number == 1 and to_row == 7:
                 piece.set_type('X')
-            elif player_number == 2 and to_col == 0:
+            elif player_number == 2 and to_row == 0:
                 piece.set_type('O')
 
             # Check if any piece has to be removed due to this move

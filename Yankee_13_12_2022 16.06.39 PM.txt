@@ -1,0 +1,307 @@
+Player Yankee Moves:
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | x | R | x | R | x | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | o | R | o | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved F1 to E2
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | x | R | x | 
+D | x | R | B | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | B | 
+F | B | R | o | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved F3 to E4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | x | R | x | 
+D | x | R | x | R | B | R | B | R | 
+E | R | o | R | o | R | B | R | B | 
+F | B | R | B | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved G2 to F1
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | x | R | x | R | B | R | x | R | 
+E | R | o | R | o | R | B | R | B | 
+F | o | R | B | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved F1 to E2
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | x | R | B | R | x | R | 
+E | R | o | R | o | R | B | R | B | 
+F | B | R | x | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved E4 to D3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | x | R | 
+E | R | B | R | B | R | B | R | B | 
+F | x | R | x | R | o | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved G4 to E2
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | x | R | B | R | o | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | o | R | o | R | o | R | o | R | 
+
+Yankee Moved H3 to G4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | x | R | o | R | o | R | o | 
+H | o | R | B | R | o | R | o | R | 
+
+Yankee Moved H1 to G2
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | x | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | B | R | X | R | o | R | o | R | 
+
+Yankee Moved D3 to B1
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | o | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | o | R | o | R | o | R | o | 
+H | B | R | X | R | o | R | o | R | 
+
+Yankee Moved F5 to E6
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | o | R | B | R | o | R | x | 
+F | X | R | B | R | B | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Yankee Moved G4 to F3
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | X | R | B | R | B | R | 
+E | R | B | R | B | R | o | R | x | 
+F | B | R | o | R | B | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Yankee Moved F3 to E4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | X | R | B | R | B | R | 
+E | R | B | R | o | R | o | R | x | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Yankee Moved E6 to D5
+    1   2   3   4   5   6   7   8   
+A | R | x | R | x | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | o | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | X | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | B | R | o | R | o | R | 
+
+Yankee Moved H5 to G4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | o | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | X | R | o | R | 
+G | R | B | R | o | R | o | R | o | 
+H | B | R | B | R | B | R | o | R | 
+
+Yankee Moved G6 to F5
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | o | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | B | R | B | R | B | R | o | 
+H | B | R | X | R | B | R | o | R | 
+
+Yankee Moved H7 to G6
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | x | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | B | R | B | R | o | R | o | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved G6 to F5
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | x | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | x | 
+F | B | R | B | R | o | R | o | R | 
+G | R | B | R | x | R | B | R | o | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved F5 to E4
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | o | R | B | R | x | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | B | R | o | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved G8 to F7
+    1   2   3   4   5   6   7   8   
+A | R | x | R | B | R | x | R | x | 
+B | o | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | o | R | B | R | B | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved B1 to A2
+    1   2   3   4   5   6   7   8   
+A | R | O | R | B | R | x | R | x | 
+B | B | R | x | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | o | R | B | R | B | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved E4 to D3
+    1   2   3   4   5   6   7   8   
+A | R | O | R | B | R | x | R | x | 
+B | B | R | B | R | x | R | x | R | 
+C | R | x | R | x | R | B | R | x | 
+D | B | R | o | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | B | R | B | R | B | R | o | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved F7 to E6
+    1   2   3   4   5   6   7   8   
+A | R | O | R | B | R | x | R | x | 
+B | B | R | B | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | x | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | x | R | o | R | B | 
+F | B | R | B | R | B | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved A2 to B3
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | O | R | x | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | x | R | 
+E | R | B | R | x | R | o | R | B | 
+F | B | R | B | R | B | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved B3 to D5
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | x | R | x | R | 
+C | R | B | R | B | R | B | R | B | 
+D | B | R | B | R | O | R | B | R | 
+E | R | B | R | x | R | B | R | B | 
+F | B | R | B | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved D5 to F3
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | B | R | O | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | X | R | B | R | B | R | 
+
+Yankee Moved F3 to E4
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | B | R | B | R | 
+E | R | B | R | O | R | B | R | B | 
+F | B | R | B | R | x | R | B | R | 
+G | R | X | R | x | R | x | R | B | 
+H | B | R | B | R | B | R | B | R | 
+
+Yankee Moved E4 to D5
+    1   2   3   4   5   6   7   8   
+A | R | B | R | B | R | x | R | x | 
+B | B | R | B | R | B | R | x | R | 
+C | R | B | R | x | R | B | R | B | 
+D | B | R | B | R | O | R | B | R | 
+E | R | B | R | B | R | B | R | B | 
+F | B | R | X | R | x | R | B | R | 
+G | R | B | R | x | R | x | R | B | 
+H | B | R | B | R | B | R | B | R | 
