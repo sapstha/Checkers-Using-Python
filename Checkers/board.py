@@ -1,3 +1,8 @@
+# Module: board.py
+# Student Name: Sapana Shrestha
+# Student ID: 00710117
+# Description: main module for implementation of Checkers Game in python
+# Python Version: 3.10.7
 import datetime
 # Board class
 from Checkers.pieces import Piece
@@ -11,13 +16,13 @@ class Board:
         self.Player2_Name = player_2
 
 
-        self.file_1 = open(f'{str(self.file_name(self.Player1_Name))}.txt', "w")
+        self.file_1 = open(f'{str(self.file_header(self.Player1_Name))}.txt', "w")
         self.file_1.write('Player '+self.Player1_Name+' Moves:\n')
 
-        self.file_2 = open(f'{str(self.file_name(self.Player2_Name))}.txt', "w")
+        self.file_2 = open(f'{str(self.file_header(self.Player2_Name))}.txt', "w")
         self.file_2.write('Player '+self.Player2_Name+' Moves:\n')
 
-    def file_name(self,name_of_player):
+    def file_header(self,name_of_player):
         now = datetime.datetime.now()
         return str(name_of_player + "_" + now.today().strftime('%d_%m_%Y %H.%M.%S %p')) #datetime.now())
 

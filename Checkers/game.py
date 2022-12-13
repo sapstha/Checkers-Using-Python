@@ -1,8 +1,13 @@
+# Final Project:Checkers
+# Module:game.py
+# Student Name: Sapana Shrestha
+# Student ID: 00710117
+# Description: Game module that has Game class to manage the overall game, making use of the methods of the board class
+# Python Version: 3.10.7
 from Checkers.board import Board
 class Game:
-
-    # Default constructor
-    def __init__(self):
+    
+    def __init__(self):# Default constructor for Game Class
         pass
 
     # Function for displaying the game menu
@@ -48,7 +53,7 @@ class Game:
             else:
                 print(self.Player2_Name+' is the Winner!!!!!')
         
-    def save_board_to_file(self):
+    def file_board(self):
         self.file1 = open(self.file_name(self.Player1_Name), "w")
         self.file1.write(self.Player1_Name)
         #self.file1.close()
