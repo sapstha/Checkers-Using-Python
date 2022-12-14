@@ -1,0 +1,660 @@
+
+C:\Users\sshre7\Desktop\Dec 11\Python_Fall_22\FinalProject\Checkers_Sapana Shrestha>python main.py
+
+****Welcome to CHECKERS****
+
+1. Play Game
+2. View Rules
+3. Exit
+:2
+
+-Two Players can play the 8X8 Checker Games.
+-The unoccupied grid squares are denoted by either 'R' or 'B'.
+-The Players pieces are displayed as 'x' or 'o'.
+-One need to enter the row and column position to make the piece move,
+-The input format should be for example: C-2,D-1.
+-A piece can move only on unoccupied location diagonally.
+-Pieces can move only forward,not backward
+
+****Welcome to CHECKERS****
+
+1. Play Game
+2. View Rules
+3. Exit
+:1
+Please Enter the Player 1's Name: Sapana
+Please Enter the Player 2's Name: Yankee
+Begin game play? (Y/N) Y
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | x | R | x | R | x | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | B |
+F | o | R | o | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): C-2,D-1
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | x | R | x | R | x |
+D | x | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | B |
+F | o | R | o | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): F-1,E-2
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | x | R | x | R | x |
+D | x | R | B | R | B | R | B | R |
+E | R | o | R | B | R | B | R | B |
+F | B | R | o | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): C-4,D-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | x | R | x |
+D | x | R | x | R | B | R | B | R |
+E | R | o | R | B | R | B | R | B |
+F | B | R | o | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): F-3,E-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | x | R | x |
+D | x | R | x | R | B | R | B | R |
+E | R | o | R | o | R | B | R | B |
+F | B | R | B | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): C-6,D-7
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | x | R | x | R | B | R | x | R |
+E | R | o | R | o | R | B | R | B |
+F | B | R | B | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): G-2,F-1
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | x | R | x | R | B | R | x | R |
+E | R | o | R | o | R | B | R | B |
+F | o | R | B | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): D-1,F-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | x | R | B | R | x | R |
+E | R | B | R | o | R | B | R | B |
+F | o | R | x | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): F-1,E-2
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | x | R | B | R | x | R |
+E | R | o | R | o | R | B | R | B |
+F | B | R | x | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): D-3,F-1
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | x | R |
+E | R | B | R | o | R | B | R | B |
+F | x | R | x | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): E-4,D-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | x | R |
+E | R | B | R | B | R | B | R | B |
+F | x | R | x | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): D-7,E-8
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | x | R | x | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): G-4,E-2
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | x | R | B | R | o | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): F-1,G-2
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | x | R | B | R | o | R | o |
+H | o | R | o | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): H-3,G-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | x | R | o | R | o | R | o |
+H | o | R | B | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): G-2,H-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | o | R | X | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): H-1,G-2
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | x | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | B | R | X | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): B-1,C-2
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | B | R | x | R | x | R | x | R |
+C | R | x | R | B | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | B | R | X | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): D-3,B-1
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | o | R | o | R | o | R | o |
+H | B | R | X | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): H-3,F-1
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | o | R | B | R | B | R | x |
+F | X | R | B | R | o | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): F-5,E-6
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | o | R | B | R | o | R | x |
+F | X | R | B | R | B | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): F-1,D-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | X | R | B | R | B | R |
+E | R | B | R | B | R | o | R | x |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): G-4,F-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | X | R | B | R | B | R |
+E | R | B | R | B | R | o | R | x |
+F | B | R | o | R | B | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): E-8,F-7
+Invalid Move
+
+Sapana :Please Enter Your Move: B-3,C-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | X | R | B | R | B | R |
+E | R | B | R | B | R | o | R | x |
+F | B | R | o | R | B | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): F-3,E-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | X | R | B | R | B | R |
+E | R | B | R | o | R | o | R | x |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): D-3,F-5
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | o | R | x |
+F | B | R | B | R | X | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): E-6,D-5
+    1   2   3   4   5   6   7   8
+A | R | x | R | x | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | o | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | X | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Sapana Please Enter Your Move (x piece): A-4,B-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | o | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | X | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | B | R | o | R | o | R |
+
+Yankee Please Enter Your Move (o piece): H-5,G-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | o | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | X | R | o | R |
+G | R | B | R | o | R | o | R | o |
+H | B | R | B | R | B | R | o | R |
+
+Sapana Please Enter Your Move (x piece): F-5,H-3
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | o | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | X | R | B | R | o | R |
+
+Yankee Please Enter Your Move (o piece): G-6,F-5
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | o | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | B | R | B | R | B | R | o |
+H | B | R | X | R | B | R | o | R |
+
+Sapana Please Enter Your Move (x piece): C-4,E-6
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | x | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | B | R | B | R | B | R | o |
+H | B | R | X | R | B | R | o | R |
+
+Yankee Please Enter Your Move (o piece): H-7,G-6
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | x | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | B | R | B | R | o | R | o |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): E-6,G-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | o | R | o |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): G-6,F-5
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | B | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | B | R | x | R | B | R | o |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): B-3,C-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | x |
+F | B | R | B | R | o | R | o | R |
+G | R | B | R | x | R | B | R | o |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): F-5,E-4
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | o | R | B | R | x |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | B | R | o |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): E-8,G-6
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | o | R | B | R | B |
+F | B | R | B | R | B | R | B | R |
+G | R | B | R | x | R | x | R | o |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): G-8,F-7
+    1   2   3   4   5   6   7   8
+A | R | x | R | B | R | x | R | x |
+B | o | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | o | R | B | R | B |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): A-2,B-3
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | o | R | x | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | o | R | B | R | B |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): B-1,A-2
+    1   2   3   4   5   6   7   8
+A | R | O | R | B | R | x | R | x |
+B | B | R | x | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | o | R | B | R | B |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): B-3,C-2
+    1   2   3   4   5   6   7   8
+A | R | O | R | B | R | x | R | x |
+B | B | R | B | R | x | R | x | R |
+C | R | x | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | o | R | B | R | B |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): E-4,D-3
+    1   2   3   4   5   6   7   8
+A | R | O | R | B | R | x | R | x |
+B | B | R | B | R | x | R | x | R |
+C | R | x | R | x | R | B | R | x |
+D | B | R | o | R | B | R | B | R |
+E | R | B | R | B | R | B | R | B |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): C-2,E-4
+    1   2   3   4   5   6   7   8
+A | R | O | R | B | R | x | R | x |
+B | B | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | x | R | B | R | B |
+F | B | R | B | R | B | R | o | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): F-7,E-6
+    1   2   3   4   5   6   7   8
+A | R | O | R | B | R | x | R | x |
+B | B | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | x |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | x | R | o | R | B |
+F | B | R | B | R | B | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): C-8,D-7
+    1   2   3   4   5   6   7   8
+A | R | O | R | B | R | x | R | x |
+B | B | R | B | R | x | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | x | R |
+E | R | B | R | x | R | o | R | B |
+F | B | R | B | R | B | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): A-2,B-3
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | O | R | x | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | x | R |
+E | R | B | R | x | R | o | R | B |
+F | B | R | B | R | B | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): D-7,F-5
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | O | R | x | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | x | R | B | R | B |
+F | B | R | B | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): B-3,D-5
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | x | R | x | R |
+C | R | B | R | B | R | B | R | B |
+D | B | R | B | R | O | R | B | R |
+E | R | B | R | x | R | B | R | B |
+F | B | R | B | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): E-4,C-6
+Invalid Move
+
+Sapana :Please Enter Your Move: B-5,C-4
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | O | R | B | R |
+E | R | B | R | x | R | B | R | B |
+F | B | R | B | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): D-5,F-3
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | B |
+F | B | R | O | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | X | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): H-3,G-2
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | B | R | B |
+F | B | R | O | R | x | R | B | R |
+G | R | X | R | x | R | x | R | B |
+H | B | R | B | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): F-3,E-4
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | O | R | B | R | B |
+F | B | R | B | R | x | R | B | R |
+G | R | X | R | x | R | x | R | B |
+H | B | R | B | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): G-2,F-3
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | O | R | B | R | B |
+F | B | R | X | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | B | R | B | R | B | R |
+
+Yankee Please Enter Your Move (o piece): E-4,D-5
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | x | R | B | R | B |
+D | B | R | B | R | O | R | B | R |
+E | R | B | R | B | R | B | R | B |
+F | B | R | X | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | B | R | B | R | B | R |
+
+Sapana Please Enter Your Move (x piece): C-4,E-6
+    1   2   3   4   5   6   7   8
+A | R | B | R | B | R | x | R | x |
+B | B | R | B | R | B | R | x | R |
+C | R | B | R | B | R | B | R | B |
+D | B | R | B | R | B | R | B | R |
+E | R | B | R | B | R | x | R | B |
+F | B | R | X | R | x | R | B | R |
+G | R | B | R | x | R | x | R | B |
+H | B | R | B | R | B | R | B | R |
+
+***Game Over***
+
+Sapana is the Winner!!!!
+
+****Welcome to CHECKERS****
+
+1. Play Game
+2. View Rules
+3. Exit
+:3
+
+Thank You For Using the Program!
